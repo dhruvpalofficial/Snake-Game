@@ -1,0 +1,48 @@
+Player Name :Priyanshu
+Played Date:Wed May 29 17:35:10 2024
+Score:0
+___________________________________________________
+Player Name :Priyanshu
+Played Date:Wed May 29 18:17:33 2024
+Score:30
+___________________________________________________
+Player Name :Deepak
+Played Date:Wed May 29 18:19:10 2024
+Score:0
+___________________________________________________
+Player Name :Priyanshu
+Played Date:Wed May 29 19:09:55 2024
+Score:0
+___________________________________________________
+Player Name :Deepak
+Played Date:Wed May 29 20:40:41 2024
+Score:10
+___________________________________________________
+Player Name :Deepak
+Played Date:Wed May 29 20:41:11 2024
+Score:20
+___________________________________________________
+Player Name :Deepak
+Played Date:Wed May 29 21:11:02 2024
+Score:0
+___________________________________________________
+Player Name :Qƒà@
+Played Date:Tue Jun 04 12:44:39 2024
+Score:20
+___________________________________________________
+Player Name :Priyanshu
+Played Date:Sat Jun 08 14:01:09 2024
+Score:20
+___________________________________________________
+Player Name :Deepak
+Played Date:Mon Jun 10 10:48:47 2024
+Score:0
+___________________________________________________
+Player Name :Priyanshu
+Played Date:Mon Jun 10 11:24:29 2024
+Score:10
+___________________________________________________
+Player Name :Hlo
+Played Date:Mon Jun 10 11:27:26 2024
+Score:50
+___________________________________________________
